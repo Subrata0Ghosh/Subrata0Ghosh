@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [https://nilranbow.blogspot.com](https://nilranbow.blogspot.com)
 
-- 📫 How to reach me **subrataghosh6799@gmail.com**
+- 📫 How to reach me **https://t.me/technorchid**
 
 - 📄 Know about my experiences [https://subrata0ghosh.github.io/cv-project/](https://subrata0ghosh.github.io/cv-project/)
 
