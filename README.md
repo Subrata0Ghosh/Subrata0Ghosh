@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subrata0ghosh" alt="subrata0ghosh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/subrata00950463" target="blank"><img src="https://img.shields.io/twitter/follow/subrata00950463?logo=twitter&style=for-the-badge" alt="subrata00950463" /></a> </p>
+<p align="left"> <a href="https://twitter.com/TechnOrchid" target="blank"><img src="https://img.shields.io/twitter/follow/TechnOrchid?logo=twitter&style=for-the-badge" alt="TechnOrchid" /></a> </p>
 
 - 🔭 I’m currently working on **Python**
 
