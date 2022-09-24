@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/subrata00950463" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subrata00950463" height="30" width="40" /></a>
+<a href="https://twitter.com/TechnOrchid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subrata00950463" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/subrata-ghosh-a1957b1b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subrata-ghosh-a1957b1b5" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16796507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="s.g" height="30" width="40" /></a>
 <a href="https://fb.com/100022295023401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100022295023401" height="30" width="40" /></a>
