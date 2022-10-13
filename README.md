@@ -70,9 +70,11 @@ Here are some ideas to get you started:
    <i> 
     
     
-    “Any fool can write code that a computer can understand. 
-      Good programmers write code that humans can understand.”
-                                                                   ― Martin Fowler
+    “Any fool can write code that 
+                  a computer can understand. 
+     Good programmers write code that 
+                 humans can understand.”
+                                           ― Martin Fowler
   </i>
 </p>       
 
