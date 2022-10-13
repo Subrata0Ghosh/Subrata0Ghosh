@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=subrata0ghosh&show_icons=true&locale=en&layout=compact" alt="subrata0ghosh" /></p>
 
 <div>
-<img align="left" src="https://github.com/Subrata0Ghosh/Subrata0Ghosh/blob/main/assets/programmer.gif" width="500">
+<img align="left" src="https://github.com/Subrata0Ghosh/Subrata0Ghosh/blob/main/assets/programmer.gif" width="400">
 <br></br>
 
 --- 
