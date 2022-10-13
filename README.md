@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 <div>
 <img align="left" src="https://github.com/Subrata0Ghosh/Subrata0Ghosh/blob/main/assets/programmer.gif" width="400">
-<br></br>
+<br>
 
 --- 
 
@@ -82,4 +82,5 @@ Here are some ideas to get you started:
 </p>       
 
 ---
+ </br>
  </div>
