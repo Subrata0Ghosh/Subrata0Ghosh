@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/TechnOrchid" target="blank"><img src="https://img.shields.io/twitter/follow/TechnOrchid?logo=twitter&style=for-the-badge" alt="TechnOrchid" /></a> </p>
 
-- 🔭 I’m currently working on **Dart**
+- 🔭 I’m currently working on **App Development**
 
 - 🌱 I’m currently learning **Flutter**
 
