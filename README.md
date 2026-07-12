@@ -1,98 +1,236 @@
-<!-- ### Hi there 👋 -->
+<div align="center">
 
-<!--
-**Subrata0Ghosh/Subrata0Ghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--            ANIMATED CINEMATIC HEADER BANNER              -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:7B2FBE,100:00FFFF&height=280&section=header&text=SUBRATA%20GHOSH&fontSize=72&fontColor=00FFFF&animation=twinkling&fontAlignY=55&desc=⚡%20Full%20Stack%20%7C%20Flutter%20%7C%20AI%20Explorer%20⚡&descAlignY=75&descSize=18&descColor=39FF14&stroke=7B2FBE&strokeWidth=2" width="100%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div>
-<img align="left" src="https://github.com/Subrata0Ghosh/Subrata0Ghosh/blob/main/assets/hello.gif" width="310" alt="hellogif">
-<h1 align="center">Hi <img src="https://github.com/Subrata0Ghosh/Subrata0Ghosh/blob/main/assets/hi.gif" width="40"/>, I'm Subrata Ghosh</h1>
- <h3 align="center">A passionate developer from India</h3></div>
- <br>  </br>
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--                  TYPING ANIMATION SVG                    -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subrata0ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="subrata0ghosh" /> </p>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subrata0ghosh" alt="subrata0ghosh" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=800&color=00FFFF&background=0D0D0D00&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=55&lines=🚀+Building+Apps+from+the+Future...;⚡+Flutter+%7C+Python+%7C+React+Native+%7C+Java;🧠+AI+%7C+Quantum+Thinking+%7C+Innovation;🌐+Open+Source+%7C+Indie+Dev+%7C+Creator;🔭+Currently+Building+Next-Gen+Apps;💡+Code+Today+%7C+Shape+Tomorrow;🌌+From+India+%7C+Building+for+the+World;🛸+Welcome+to+the+Year+2050+Experience)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://twitter.com/TechnOrchid" target="blank"><img src="https://img.shields.io/twitter/follow/TechnOrchid?logo=twitter&style=for-the-badge" alt="TechnOrchid" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on **App Development**
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--              PROFILE VIEWS + SOCIAL BADGES              -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
 
-- 🌱 I’m currently learning **Flutter**
-
-- 📝 I regularly write articles on [Nilranbow](https://nilranbow.blogspot.com)
-
-- 📫 How to reach me [Technorchid](https://t.me/technorchid)
-  
-- 📄 Know about my experiences [Portfolio](https://subrata0ghosh.github.io/portfolio/)
-
-- ⚡ Fun fact **I think I am funny**
-
-<img align="center" src="https://github.com/Subrata0Ghosh/Subrata0Ghosh/blob/main/assets/My-work.gif" width="500">
-
-<h3 align="left">Connect with me:</h3>
-<img align="center" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32">
-
-<p align="left">
-<a href="https://twitter.com/TechnOrchid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subrata00950463" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/subrata-ghosh-a1957b1b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subrata-ghosh-a1957b1b5" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16796507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="s.g" height="30" width="40" /></a>
-<a href="https://fb.com/100022295023401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100022295023401" height="30" width="40" /></a>
-  <a href="https://instagram.com/technorchid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="technorchid" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCfcC5uQHlA0hvMQglaUOWLg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfcc5uqhla0hvmqglauowlg" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <!--<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>-->
-
-<a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-       alt="Flutter Logo"
-       width="40"
-       height="40"
-       style="vertical-align:middle;" />
+<a href="https://github.com/Subrata0Ghosh">
+  <img src="https://komarev.com/ghpvc/?username=subrata0ghosh&label=⚡+PROFILE+VIEWS&color=00ffff&style=for-the-badge&labelColor=0D0D0D" alt="Profile Views"/>
+</a>
+&nbsp;
+<a href="https://github.com/Subrata0Ghosh?tab=followers">
+  <img src="https://img.shields.io/github/followers/Subrata0Ghosh?label=⚡+FOLLOWERS&style=for-the-badge&color=7B2FBE&labelColor=0D0D0D&logo=github&logoColor=00FFFF" alt="Followers"/>
+</a>
+&nbsp;
+<a href="https://github.com/Subrata0Ghosh?tab=stars">
+  <img src="https://img.shields.io/github/stars/Subrata0Ghosh?label=⭐+STARS&style=for-the-badge&color=39FF14&labelColor=0D0D0D&logo=github&logoColor=white" alt="Stars"/>
 </a>
 
-
-
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=subrata0ghosh&show_icons=true&locale=en" alt="subrata0ghosh" width="400"/></p>
-
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=subrata0ghosh&" alt="subrata0ghosh" width="400"/></p>
-
-### 📚 Most Used Languages
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=subrata0ghosh&show_icons=true&locale=en&layout=compact" alt="subrata0ghosh" /></p>
-
-<div>
-<img align="left" src="https://github.com/Subrata0Ghosh/Subrata0Ghosh/blob/main/assets/programmer.gif" width="400">
-<br>
-
---- 
-
-
-<p align="centre">
-   <i> 
-    
-    
-    “Any fool can write code that 
-                  a computer can understand. 
-     Good programmers write code that 
-                 humans can understand.”
-                                           ― Martin Fowler
-  </i>
-</p>       
+</div>
 
 ---
- </br>
- </div>
+
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--                ABOUT — THE 2050 TERMINAL                 -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                   >> SYSTEM BOOT: SUBRATA.OS v2050 <<           ║
+╠══════════════════════════════════════════════════════════════════╣
+║  USER       : Subrata Ghosh                                      ║
+║  ORIGIN     : India 🇮🇳  ██████████████████████  [ONLINE]        ║
+║  ROLE       : App Developer | OSS Builder | Digital Architect    ║
+║  STACK      : Flutter • Python • React Native • Java • Firebase  ║
+║  CURRENTLY  : ▶  Building Next-Gen Mobile Experiences            ║
+║  LEARNING   : ▶  Advanced Flutter • AI Integration               ║
+║  BLOG       : ▶  nilranbow.blogspot.com                          ║
+║  PORTFOLIO  : ▶  subrata0ghosh.github.io/portfolio               ║
+║  FUN FACT   : ▶  "I think I am funny" 😄                         ║
+║  MOTTO      : Good code speaks to humans, not just machines      ║
+╠══════════════════════════════════════════════════════════════════╣
+║  STATUS     : [██████████░░░░░░░] 65% TO WORLD DOMINATION 🌍     ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--             TROPHIES — NEON RADICAL THEME               -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">🏆 &nbsp; ACHIEVEMENT MATRIX &nbsp; 🏆</h2>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=subrata0ghosh&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies" width="100%"/>
+  </a>
+</div>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--               TECH STACK — SKILL ICONS                  -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">⚡ &nbsp; TECH ARSENAL &nbsp; ⚡</h2>
+
+<div align="center">
+
+### 📱 Mobile & Frontend
+<a href="#"><img src="https://skillicons.dev/icons?i=flutter,dart,react,js,html,css&theme=dark&perline=6" alt="Mobile & Frontend Skills"/></a>
+
+### 🔧 Backend & Infrastructure
+<a href="#"><img src="https://skillicons.dev/icons?i=python,java,firebase,mysql,linux,bash&theme=dark&perline=6" alt="Backend Skills"/></a>
+
+### 🛠️ Dev Tools & Platforms
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,gradle&theme=dark&perline=5" alt="Dev Tools"/></a>
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--          GITHUB STATS TRIFECTA — LIVE DATA              -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">📊 &nbsp; LIVE NEURAL METRICS &nbsp; 📊</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subrata0ghosh&show_icons=true&theme=tokyonight&border_color=00FFFF&bg_color=0D0D0D&title_color=00FFFF&icon_color=7B2FBE&text_color=ffffff&border_radius=12&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subrata0ghosh&layout=compact&theme=tokyonight&border_color=00FFFF&bg_color=0D0D0D&title_color=00FFFF&text_color=ffffff&border_radius=12&hide_border=false&langs_count=8" height="180" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subrata0ghosh&theme=tokyonight-duo&background=0D0D0D&border=00FFFF&stroke=7B2FBE&ring=00FFFF&fire=39FF14&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FFFF&sideLabels=7B2FBE&dates=888888&border_radius=12" width="500" alt="Streak Stats"/>
+</div>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--            3D CONTRIBUTION GRAPH (GitHub Action)        -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">🌌 &nbsp; 3D CONTRIBUTION MATRIX &nbsp; 🌌</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+    <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+  </picture>
+</div>
+
+> 🤖 *Auto-generated every 24hrs via GitHub Actions — [profile-3d.yml](.github/workflows/profile-3d.yml)*
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--          CONTRIBUTION SNAKE ANIMATION                   -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">🐍 &nbsp; SNAKE CONSUMING MY CONTRIBUTIONS &nbsp; 🐍</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Subrata0Ghosh/Subrata0Ghosh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Subrata0Ghosh/Subrata0Ghosh/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Subrata0Ghosh/Subrata0Ghosh/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+> 🤖 *Auto-generated every 12hrs via GitHub Actions — [snake.yml](.github/workflows/snake.yml)*
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--              GITHUB ACTIVITY GRAPH                       -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">📈 &nbsp; ACTIVITY WAVEFORM &nbsp; 📈</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subrata0ghosh&theme=tokyo-night&bg_color=0D0D0D&color=00FFFF&line=7B2FBE&point=39FF14&area=true&area_color=7B2FBE&hide_border=false&border_color=00FFFF&radius=8" width="100%" alt="Activity Graph"/>
+</div>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--              CONNECT — SOCIAL MATRIX                    -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">🛸 &nbsp; ESTABLISH CONNECTION &nbsp; 🛸</h2>
+
+<div align="center">
+
+<a href="https://twitter.com/TechnOrchid" target="_blank">
+  <img src="https://img.shields.io/badge/TWITTER-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=0D0D0D" alt="Twitter"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/subrata-ghosh-a1957b1b5" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/technorchid" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=0D0D0D" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="https://stackoverflow.com/users/16796507" target="_blank">
+  <img src="https://img.shields.io/badge/STACK%20OVERFLOW-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=0D0D0D" alt="Stack Overflow"/>
+</a>
+&nbsp;
+<a href="https://www.youtube.com/channel/UCfcC5uQHlA0hvMQglaUOWLg" target="_blank">
+  <img src="https://img.shields.io/badge/YOUTUBE-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=0D0D0D" alt="YouTube"/>
+</a>
+&nbsp;
+<a href="https://fb.com/100022295023401" target="_blank">
+  <img src="https://img.shields.io/badge/FACEBOOK-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=0D0D0D" alt="Facebook"/>
+</a>
+&nbsp;
+<a href="https://t.me/technorchid" target="_blank">
+  <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D0D0D" alt="Telegram"/>
+</a>
+&nbsp;
+<a href="https://nilranbow.blogspot.com" target="_blank">
+  <img src="https://img.shields.io/badge/BLOG-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=0D0D0D" alt="Blog"/>
+</a>
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--              PHILOSOPHY QUOTE — NEON FOOTER             -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<br/>
+
+```
+ ┌─────────────────────────────────────────────────────────────┐
+ │                                                             │
+ │   "Any fool can write code a computer can understand.       │
+ │    Good programmers write code that humans can understand." │
+ │                                          — Martin Fowler    │
+ │                                                             │
+ │                    [ SUBRATA GHOSH © 2050 ]                 │
+ └─────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:7B2FBE,100:0D0D0D&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
