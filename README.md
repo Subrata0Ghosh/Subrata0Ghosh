@@ -90,9 +90,13 @@
 <!-- RECENTLY_ACTIVE:START -->
 | 🚀 Repository | 📝 Description | 🛠 Language | 📊 Stats | 📡 Status | 📅 Pushed |
 |:---|:---|:---:|:---:|:---:|:---:|
-| Initializing... | Run the `Auto-Update` Action to populate this section | — | — | 🟡 Pending | — |
+| [**`flutter-dashboard`**](https://github.com/Subrata0Ghosh/flutter-dashboard) | No description | 🦋 Dart | ⭐0 🍴0 | 🟡 In Progress | `2026-07-09` |
+| [**`skin-analysis-ai`**](https://github.com/Subrata0Ghosh/skin-analysis-ai) | skin analysis companion designed to help users understa… | 🦋 Dart | ⭐0 🍴0 | 🟡 In Progress | `2026-07-03` |
+| [**`Trading-Bot`**](https://github.com/Subrata0Ghosh/Trading-Bot) | Trading Bot on Binance Futures Testnet | 🐍 Python | ⭐0 🍴0 | 🟡 In Progress | `2026-07-01` |
+| [**`game`**](https://github.com/Subrata0Ghosh/game) | diff types of games | 🌐 HTML | ⭐1 🍴0 | 🔵 Maintenance | `2026-05-23` |
+| [**`portfolio`**](https://github.com/Subrata0Ghosh/portfolio) | No description | ⚡ JavaScript | ⭐1 🍴0 | ⚫ Paused | `2026-02-27` |
 
-<sub>🤖 Auto-updated by GitHub Actions · Run the workflow once to activate</sub>
+<sub>🤖 Auto-updated by GitHub Actions · Last refresh: **13 Jul 2026 · 12:37 AM IST**</sub>
 <!-- RECENTLY_ACTIVE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&reversal=false" width="100%"/>
