@@ -1,20 +1,12 @@
 <div align="center">
 
-<!-- ============================================================ -->
-<!--              HEADER — SHARK WAVE + NAME PLATE                -->
-<!-- ============================================================ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080818,50:130428,100:00FFFF&height=220&section=header&text=SUBRATA%20GHOSH&fontSize=60&fontColor=00FFFF&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Engineer%20%7C%20Flutter%20Architect%20%7C%20AI%20Explorer&descSize=16&descColor=c084fc&descAlignY=60" width="100%"/>
-
-<!-- ============================================================ -->
-<!--              TYPEWRITER — ALL WORKING CHARS                   -->
-<!-- ============================================================ -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&repeat=true&width=720&height=48&lines=Building+Next-Gen+Mobile+Experiences+%F0%9F%9A%80;Flutter+%E2%80%A2+Python+%E2%80%A2+React+Native+%E2%80%A2+Java+%E2%80%A2+Firebase;Turning+Ideas+into+Living%2C+Breathing+Apps+%F0%9F%92%A1;Open+Source+Contributor+%7C+Indie+Creator+%F0%9F%8C%90;Code+is+Poetry.+Make+it+Readable.;From+India+%F0%9F%87%AE%F0%9F%87%B3+Building+for+the+World+%F0%9F%8C%8D;The+Future+Is+Already+Here.+I+Just+Ship+It.+%F0%9F%9B%B8)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- BADGE ROW — no emojis in label text (shields.io safe) -->
+<!-- BADGE ROW -->
 <a href="https://github.com/Subrata0Ghosh">
   <img src="https://komarev.com/ghpvc/?username=subrata0ghosh&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge&labelColor=080818" alt="Profile Views"/>
 </a>
@@ -27,6 +19,13 @@
 &nbsp;
 <img src="https://img.shields.io/badge/LEARNING-Flutter%20%7C%20AI-c084fc?style=for-the-badge&labelColor=080818" alt="Learning"/>
 
+<br/><br/>
+
+<!-- INTERACTIVE PORTFOLIO LINK BUTTON -->
+<a href="https://subrata0ghosh.github.io/Subrata0Ghosh/" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20INTERACTIVE%20PORTFOLIO-Click%20to%20Experience-00FFFF?style=for-the-badge&labelColor=080818&logoColor=00FFFF" alt="Interactive Portfolio"/>
+</a>
+
 </div>
 
 <br/>
@@ -34,6 +33,9 @@
 <!-- ============================================================ -->
 <!--              TERMINAL BOOT SCREEN                            -->
 <!-- ============================================================ -->
+
+<details open>
+<summary><b>⬡ &nbsp; SUBRATA.OS v2050.7 — BOOT SEQUENCE &nbsp; ⬡</b> &nbsp; <code>[ click to expand / collapse ]</code></summary>
 
 ```kotlin
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -56,6 +58,8 @@
 ║  POWER  [████████████████████░░░░]  80%   STATUS: BUILDING...  ⚡    ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
+
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&reversal=false" width="100%"/>
 
@@ -109,23 +113,34 @@
 
 <h2>⚡ &nbsp; T E C H &nbsp; A R S E N A L &nbsp; ⚡</h2>
 
-**📱 Mobile & Frontend**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,js,html,css&theme=dark" alt="Mobile & Frontend"/>
-
-<br/>
-
-**🧠 Backend & Data**
-
-<img src="https://skillicons.dev/icons?i=python,java,firebase,mysql,linux,bash&theme=dark" alt="Backend & Data"/>
-
-<br/>
-
-**🛠 Dev Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,gradle,figma&theme=dark" alt="Dev Tools"/>
-
 </div>
+
+<details open>
+<summary><b>📱 Mobile &amp; Frontend</b> &nbsp; <code>Flutter • Dart • React • JS • HTML • CSS</code></summary>
+<br/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,js,html,css&theme=dark" alt="Mobile & Frontend"/>
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>🧠 Backend &amp; Data</b> &nbsp; <code>Python • Java • Firebase • MySQL • Linux • Bash</code></summary>
+<br/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,firebase,mysql,linux,bash&theme=dark" alt="Backend & Data"/>
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>🛠 Dev Tools &amp; Environment</b> &nbsp; <code>Git • VS Code • Android Studio • Gradle • Figma</code></summary>
+<br/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,gradle,figma&theme=dark" alt="Dev Tools"/>
+</div>
+<br/>
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&reversal=false" width="100%"/>
 
