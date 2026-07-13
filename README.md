@@ -100,7 +100,7 @@
 | [**`game`**](https://github.com/Subrata0Ghosh/game) | diff types of games | 🌐 HTML | ⭐1 🍴0 | 🔵 Maintenance | `2026-05-23` |
 | [**`portfolio`**](https://github.com/Subrata0Ghosh/portfolio) | No description | ⚡ JavaScript | ⭐1 🍴0 | ⚫ Paused | `2026-02-27` |
 
-<sub>🤖 Auto-updated by GitHub Actions · Last refresh: **13 Jul 2026 · 02:14 PM IST**</sub>
+<sub>🤖 Auto-updated by GitHub Actions · Last refresh: **13 Jul 2026 · 07:30 PM IST**</sub>
 <!-- RECENTLY_ACTIVE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&reversal=false" width="100%"/>
