@@ -100,7 +100,7 @@
 | [**`Trading-Bot`**](https://github.com/Subrata0Ghosh/Trading-Bot) | Trading Bot on Binance Futures Testnet | 🐍 Python | ⭐0 🍴0 | 🔵 Maintenance | `2026-07-01` |
 | [**`game`**](https://github.com/Subrata0Ghosh/game) | diff types of games | 🌐 HTML | ⭐1 🍴0 | 🔵 Maintenance | `2026-05-23` |
 
-<sub>🤖 Auto-updated by GitHub Actions · Last refresh: **20 Jul 2026 · 12:16 AM IST**</sub>
+<sub>🤖 Auto-updated by GitHub Actions · Last refresh: **20 Jul 2026 · 07:22 AM IST**</sub>
 <!-- RECENTLY_ACTIVE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&reversal=false" width="100%"/>
