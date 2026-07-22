@@ -98,9 +98,9 @@
 | [**`flutter-dashboard`**](https://github.com/Subrata0Ghosh/flutter-dashboard) | No description | 🦋 Dart | ⭐0 🍴0 | 🟡 In Progress | `2026-07-09` |
 | [**`skin-analysis-ai`**](https://github.com/Subrata0Ghosh/skin-analysis-ai) | skin analysis companion designed to help users understa… | 🦋 Dart | ⭐0 🍴0 | 🔵 Maintenance | `2026-07-03` |
 | [**`Trading-Bot`**](https://github.com/Subrata0Ghosh/Trading-Bot) | Trading Bot on Binance Futures Testnet | 🐍 Python | ⭐0 🍴0 | 🔵 Maintenance | `2026-07-01` |
-| [**`game`**](https://github.com/Subrata0Ghosh/game) | diff types of games | 🌐 HTML | ⭐1 🍴0 | 🔵 Maintenance | `2026-05-23` |
+| [**`game`**](https://github.com/Subrata0Ghosh/game) | diff types of games | 🌐 HTML | ⭐1 🍴0 | ⚫ Paused | `2026-05-23` |
 
-<sub>🤖 Auto-updated by GitHub Actions · Last refresh: **22 Jul 2026 · 01:36 PM IST**</sub>
+<sub>🤖 Auto-updated by GitHub Actions · Last refresh: **22 Jul 2026 · 06:48 PM IST**</sub>
 <!-- RECENTLY_ACTIVE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&reversal=false" width="100%"/>
