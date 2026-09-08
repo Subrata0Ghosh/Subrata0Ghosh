@@ -94,13 +94,13 @@
 <!-- RECENTLY_ACTIVE:START -->
 | 🚀 Repository | 📝 Description | 🛠 Language | 📊 Stats | 📡 Status | 📅 Pushed |
 |:---|:---|:---:|:---:|:---:|:---:|
-| [**`charge_alert`**](https://github.com/Subrata0Ghosh/charge_alert) | ⚡ A simple Flutter app that alerts you when your batter… | 🦋 Dart | ⭐0 🍴0 | 🟢 Active | `2026-09-05` |
+| [**`charge_alert`**](https://github.com/Subrata0Ghosh/charge_alert) | ⚡ A simple Flutter app that alerts you when your batter… | 🦋 Dart | ⭐0 🍴0 | 🟡 In Progress | `2026-09-05` |
 | [**`Agentic-LLM`**](https://github.com/Subrata0Ghosh/Agentic-LLM) | A human-brain-mimicking AI that processes every message… | 🐍 Python | ⭐0 🍴0 | 🔵 Maintenance | `2026-07-20` |
 | [**`flutter-dashboard`**](https://github.com/Subrata0Ghosh/flutter-dashboard) | No description | 🦋 Dart | ⭐0 🍴0 | ⚫ Paused | `2026-07-09` |
 | [**`skin-analysis-ai`**](https://github.com/Subrata0Ghosh/skin-analysis-ai) | skin analysis companion designed to help users understa… | 🦋 Dart | ⭐0 🍴0 | ⚫ Paused | `2026-07-03` |
 | [**`Trading-Bot`**](https://github.com/Subrata0Ghosh/Trading-Bot) | Trading Bot on Binance Futures Testnet | 🐍 Python | ⭐0 🍴0 | ⚫ Paused | `2026-07-01` |
 
-<sub>🤖 Auto-updated by GitHub Actions · Last refresh: **08 Sep 2026 · 09:03 PM IST**</sub>
+<sub>🤖 Auto-updated by GitHub Actions · Last refresh: **09 Sep 2026 · 01:55 AM IST**</sub>
 <!-- RECENTLY_ACTIVE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&reversal=false" width="100%"/>
