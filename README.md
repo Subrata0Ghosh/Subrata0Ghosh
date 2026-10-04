@@ -94,13 +94,13 @@
 <!-- RECENTLY_ACTIVE:START -->
 | 🚀 Repository | 📝 Description | 🛠 Language | 📊 Stats | 📡 Status | 📅 Pushed |
 |:---|:---|:---:|:---:|:---:|:---:|
+| [**`charge_alert`**](https://github.com/Subrata0Ghosh/charge_alert) | ⚡ A simple Flutter app that alerts you when your batter… | 🦋 Dart | ⭐0 🍴0 | 🟢 Active | `2026-10-04` |
 | [**`blink`**](https://github.com/Subrata0Ghosh/blink) | No description | 🦋 Dart | ⭐0 🍴0 | 🟢 Active | `2026-10-03` |
 | [**`chativio`**](https://github.com/Subrata0Ghosh/chativio) | An offline/online AI friend built with Flutter — chat, … | 🦋 Dart | ⭐0 🍴0 | 🔵 Maintenance | `2026-09-19` |
-| [**`charge_alert`**](https://github.com/Subrata0Ghosh/charge_alert) | ⚡ A simple Flutter app that alerts you when your batter… | 🦋 Dart | ⭐0 🍴0 | 🔵 Maintenance | `2026-09-13` |
 | [**`Agentic-LLM`**](https://github.com/Subrata0Ghosh/Agentic-LLM) | A human-brain-mimicking AI that processes every message… | 🐍 Python | ⭐0 🍴0 | ⚫ Paused | `2026-07-20` |
 | [**`flutter-dashboard`**](https://github.com/Subrata0Ghosh/flutter-dashboard) | No description | 🦋 Dart | ⭐0 🍴0 | ⚫ Paused | `2026-07-09` |
 
-<sub>🤖 Auto-updated by GitHub Actions · Last refresh: **04 Oct 2026 · 08:43 AM IST**</sub>
+<sub>🤖 Auto-updated by GitHub Actions · Last refresh: **04 Oct 2026 · 04:57 PM IST**</sub>
 <!-- RECENTLY_ACTIVE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&reversal=false" width="100%"/>
